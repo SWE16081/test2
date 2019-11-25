@@ -1,0 +1,10 @@
+txt:	
+word:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+Õº∆¨£∫
+$type == 'image/png'||$type == 'image/jpeg'||$type == 'image/pjpeg'
+                        ||$type == 'image/gif'||$type =='image/bmp'||$type =="image/x-png"
+
+ ”∆µ£∫video/mp4
+
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjY3NDM3OTU2ZTczMTg0MWI0MzU2OWE4Yjc2NzE4MWE4MTllYzBiZTE2NmY3ZGY4NWM1NGE3NTdiZDU0MGZiNzk4ZTA5MWY0OTYwZDM2MjZjIn0.eyJhdWQiOiIzIiwianRpIjoiNjc0Mzc5NTZlNzMxODQxYjQzNTY5YThiNzY3MTgxYTgxOWVjMGJlMTY2ZjdkZjg1YzU0YTc1N2JkNTQwZmI3OThlMDkxZjQ5NjBkMzYyNmMiLCJpYXQiOjE1Njc5MzIzODAsIm5iZiI6MTU2NzkzMjM4MCwiZXhwIjoxNTk5NTU0NzgwLCJzdWIiOiIiLCJzY29wZXMiOltdfQ.Qeu-AijwOQQxHQzfRnIH61aG3gmxyE-RrgMG2m_MfS4blSZGGvuhV0qZHMlMVCcoWwYmtaXuIerCzxoIE15_oBFbEryd73wWKFt1R7fizmKpngBhRLXXMOJlUmVDIfC6Jz6I9GqNB_VKnlWeDTuHjmbeDh8O94jY4Sg1hRIlk50h2-TtoRGW5KBO9msWEmsWxUvkSC1hNFYxXIpbOA8u5VtPSEWKfpDD2KTNZk5iXUauUOsLoEV3GTO7EXjD1rt6iarSFVarfPyCwtJ95fmrKHYV1nYuxx3PwKrgaNwaLWHiGJhiji7_RB9ylkvMt8CjpaUCtNtpbHleZpLoqV8oIpRX-QnCFtLIp9tcZYD74mte-6yAzvwbhE1wE7wWpx7AC9GgwOin-9NczcR6d8AYdRxYlOtaE5QlcjDdUaOiBQnU0S31TNCibSI6XdFMmBtuu2hYqcWO5Ng-YpaMy6CTwt9PMQTSFDXTk-n-Ggs4tvlBWVdLPAZKZZ_yGK1cI72fc1L--1jhp62AshwoINwUy8mg1r1wCnwNFF-l46cQ8NOYLQBp75Id_uwutfkbvtJ0jVb5LLcI3t537xuYiypt2wnTlG2reu3UYC9OQIhv_MOgJKgzRNyKdvHXqzFd_DWUZWUSclJkxomTslU_xupd8qCYsoMQsdNlaFlCtn3T_dM
